@@ -1,0 +1,5 @@
+require "mfallon90.options"
+require "mfallon90.keymaps"
+require "mfallon90.plugins"
+require "mfallon90.colorscheme"
+require "mfallon90.telescope"
